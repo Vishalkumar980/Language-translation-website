@@ -1,3 +1,4 @@
+<img width="601" height="365" alt="Language Translate" src="https://github.com/user-attachments/assets/f71e9c6c-8af1-487c-8210-bab8d9390e92" />
 # Language-translation-website
 A sleek, responsive language translator with a modern dark theme built using HTML, CSS, and JavaScript. This web app allows users to translate text between multiple languages with a clean, user-friendly interface.
 ✔ Dark Mode UI – Purple-themed design with easy-on-the-eyes color scheme
